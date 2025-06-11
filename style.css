@@ -1,0 +1,68 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.navbar{
+    background-image: url('../backphoto.webp');
+    justify-content: space-between;
+    box-shadow: inset 760px 0px 206px 0px rgb(0 0 0 / 76%);
+    background-size: cover;
+
+    
+}
+.navigation a{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    padding: 20px;
+}
+.logo{
+    color: white;
+    font-size: 40px;
+    font-weight: bolder;
+    padding-left: 20px;
+     font-size: 40px;
+    font-family: "Bebas Neue", sans-serif;
+}
+.first-view{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(0, 0, 0, 0.4);
+    height: 70px;
+    padding-top: 30px;
+   font-family: "Roboto", sans-serif;
+}
+
+.container{
+  margin-left: 130px;
+  font-family: "Babes Neue", sans-serif;
+  color: white;
+}
+
+.child-1{ 
+    font-size:30px;
+    font-weight: bold;
+    margin-top: 20px;
+    /* padding: 0px 764px 2px 173px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: normal; */
+
+}
+
+.child-2 {
+     font-size: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+    /* font-size: 24px;
+    font-family: "Roboto", sans-serif;
+    padding: 10px 806px 15px 171px;
+    line-height: 38px;
+    font-weight: 300; */
+}
+.child-1{
+    
+}
+
